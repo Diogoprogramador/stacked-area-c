@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+
+# Compiler outputs
+*.o
+*.a
+*.so
+
+# Test leftovers
+sa_test_stacked.csv
+sa_test_stacked2.csv
+sa_test_svg_out.svg
+sa_cli_out.*.svg
+sa_cli_out.svg
