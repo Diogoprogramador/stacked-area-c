@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect x="0" y="0" width="640" height="420" fill="#ffffff"/>
+  <text x="320.00" y="18" font-family="sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Uso de hardware (%)</text>
+  <line x1="60.00" y1="380.00" x2="620.00" y2="380.00" stroke="#333" stroke-width="1"/>
+  <line x1="60.00" y1="20.00" x2="60.00" y2="380.00" stroke="#333" stroke-width="1"/>
+  <line x1="60.00" y1="20.00" x2="60.00" y2="380.00" stroke="#eee"/>
+  <text x="60.00" y="32.00" font-family="sans-serif" font-size="11" text-anchor="middle">2022</text>
+  <line x1="340.00" y1="20.00" x2="340.00" y2="380.00" stroke="#eee"/>
+  <text x="340.00" y="32.00" font-family="sans-serif" font-size="11" text-anchor="middle">2023.5</text>
+  <line x1="620.00" y1="20.00" x2="620.00" y2="380.00" stroke="#eee"/>
+  <text x="620.00" y="32.00" font-family="sans-serif" font-size="11" text-anchor="middle">2025</text>
+  <line x1="60.00" y1="20.00" x2="620.00" y2="20.00" stroke="#eee"/>
+  <text x="52.00" y="24.00" font-family="sans-serif" font-size="11" text-anchor="end">0</text>
+  <line x1="60.00" y1="200.00" x2="620.00" y2="200.00" stroke="#eee"/>
+  <text x="52.00" y="204.00" font-family="sans-serif" font-size="11" text-anchor="end">50</text>
+  <line x1="60.00" y1="380.00" x2="620.00" y2="380.00" stroke="#eee"/>
+  <text x="52.00" y="384.00" font-family="sans-serif" font-size="11" text-anchor="end">100</text>
+  <text x="30.00" y="28.00" font-family="sans-serif" font-size="12" text-anchor="middle" transform="rotate(-90 30.00 28.00)">%</text>
+  <path d="M 60.00 20.00 L 246.67 20.00 L 433.33 20.00 L 620.00 20.00 L 620.00 77.24 L 433.33 65.72 L 246.67 56.72 L 60.00 50.60 Z" fill="#1f77b4" fill-opacity="0.85" stroke="#1f77b4" stroke-width="0.5"/>
+  <path d="M 60.00 50.60 L 246.67 56.72 L 433.33 65.72 L 620.00 77.24 L 620.00 221.60 L 433.33 225.20 L 246.67 228.80 L 60.00 238.16 Z" fill="#ff7f0e" fill-opacity="0.85" stroke="#ff7f0e" stroke-width="0.5"/>
+  <path d="M 60.00 238.16 L 246.67 228.80 L 433.33 225.20 L 620.00 221.60 L 620.00 341.84 L 433.33 340.76 L 246.67 338.60 L 60.00 340.40 Z" fill="#2ca02c" fill-opacity="0.85" stroke="#2ca02c" stroke-width="0.5"/>
+  <path d="M 60.00 340.40 L 246.67 338.60 L 433.33 340.76 L 620.00 341.84 L 620.00 380.00 L 433.33 380.00 L 246.67 380.00 L 60.00 380.00 Z" fill="#d62728" fill-opacity="0.85" stroke="#d62728" stroke-width="0.5"/>
+  <rect x="62.00" y="386.00" width="10" height="10" rx="1" fill="#1f77b4"/>
+  <text x="76.00" y="396.00" font-family="sans-serif" font-size="11">gpu</text>
+  <rect x="62.00" y="404.00" width="10" height="10" rx="1" fill="#ff7f0e"/>
+  <text x="76.00" y="414.00" font-family="sans-serif" font-size="11">cpu</text>
+  <rect x="62.00" y="422.00" width="10" height="10" rx="1" fill="#2ca02c"/>
+  <text x="76.00" y="432.00" font-family="sans-serif" font-size="11">mem</text>
+  <rect x="62.00" y="440.00" width="10" height="10" rx="1" fill="#d62728"/>
+  <text x="76.00" y="450.00" font-family="sans-serif" font-size="11">ssd</text>
+</svg>
